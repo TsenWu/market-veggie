@@ -1,0 +1,24 @@
+{
+  "name": "菜籃算盤 - 蔬果比價與單位換算",
+  "short_name": "菜籃算盤",
+  "description": "台灣菜市場台斤與超市公克即時換算、各通路歷次比對與買菜算盤",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F6F2",
+  "theme_color": "#3F5245",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
